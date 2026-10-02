@@ -1,0 +1,2 @@
+number = int(input("Введите число: "))
+print("Квадрат числа:", number ** 2)
